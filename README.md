@@ -12,4 +12,4 @@ visit: https://adibansal1703.github.io/Spotify-clone/
 ![image](https://github.com/user-attachments/assets/f246768b-6471-4dc5-a866-fb59122c325d)
 ![image](https://github.com/user-attachments/assets/a3b933d3-b8e5-4b82-9190-63ebb7de9063)
 # Author 
-@adibansal1703 //
+@adibansal1703 
